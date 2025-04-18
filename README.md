@@ -1,5 +1,9 @@
 # Projeto Carrinho de Pizzas
 
+![Projeto_Descktop](https://github.com/fisiofaz/Pizzaria_Menu/blob/main/images/projeto_descktop.png)
+![Projeto_Mobile](https://github.com/fisiofaz/Pizzaria_Menu/blob/main/images/projeto_mobili1.png)
+![Projeto_mobili](https://github.com/fisiofaz/Pizzaria_Menu/blob/main/images/projeto_mobili2.png)
+
 Este projeto é uma implementação de um sistema de carrinho de compras para um site de pizzas, utilizando HTML, CSS e JavaScript. O projeto permite ao usuário selecionar pizzas de diferentes tamanhos, adicionar ao carrinho e visualizar o resumo da compra com subtotal, desconto e preço final.
 
 ## Funcionalidades
